@@ -20,9 +20,6 @@ The **Energy Consumption Monitor Chatbot** is a conversational web tool that hel
 - **Dark/Light Mode:** Switch between dark and light themes.
 - **Login Modal:** Simple authentication for demo purposes.
 
-## Demo
-
-![Chatbot UI Screenshot](https://user-images.githubusercontent.com/your-repo/demo-screenshot.png)
 
 ## Installation
 
